@@ -1,0 +1,9 @@
+# Ignore unnecessary Mac file
+.DS_Store
+
+# Ignore files installed for npm
+node_modules
+
+# Avoid LF and CRLF issues
+package-lock.json
+package.json
