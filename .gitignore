@@ -5,5 +5,5 @@
 node_modules
 
 # Avoid LF and CRLF issues
-package-lock.json
-package.json
+# package-lock.json
+# package.json
